@@ -7,7 +7,7 @@
 首先，使用以下命令安裝所需的套件：
 
 ```bash
-python3 -m pip install netcdf-to-csv
+python3 -m pip install netcdf-to-csv netcdf-meta
 ```
 
 ## 模組使用
